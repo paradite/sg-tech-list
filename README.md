@@ -1,14 +1,21 @@
 # sg-tech-list
 
-Casual list of notable tech companies in Singapore. 
+Casual list of notable tech companies in Singapore.
 
 > **Warning**
 > Categories are completely subjective and derived from my uniformed and bias perspective as SWE.
-> Relative positions in each category is completely random.
+> 
+> **Warning**
+> Relative positions in each category are completely random.
 
 > **Warning**
 > This list is not meant to be serious or exhaustive.
+> 
+> **Warning**
 > I am not affiliated to any companies listed below.
+
+> **Note**
+> Banks and non-tech companies are intentionally omitted from the list.
 
 ## FAANG 
 
@@ -62,12 +69,17 @@ Casual list of notable tech companies in Singapore.
 - Ubisoft
 - miHoYo
 
+## Government
+
+- GovTech
+
 ## Other local startups
 
 - Carousell
 - CARRO
 - Ninja Van
 - Splyt
+- Shopback
 
 ## Other notable global companies
 
@@ -78,6 +90,8 @@ Casual list of notable tech companies in Singapore.
 - Shopify
 - Visa
 - Mastercard
+- GitLab
+- Spotify
 
 ---
 
@@ -85,3 +99,4 @@ Casual list of notable tech companies in Singapore.
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
+- [NodeFlair](https://www.nodeflair.com/companies)
