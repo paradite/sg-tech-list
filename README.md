@@ -2,13 +2,13 @@
 
 List of notable tech companies in Singapore. Useful when looking for a new job. 
 
-> **Warning**
+> **Warning**\
 > Categories are subjective and derived from my own uniformed and bias perspective. Relative positions within a category are random.
 
-> **Warning**
+> **Warning**\
 > This list is not meant to be exhaustive. I am not affiliated to any companies in the list.
 
-> **Note**
+> **Note**\
 > Banks and non-tech companies are intentionally omitted from the list.
 
 ## FAANG 
