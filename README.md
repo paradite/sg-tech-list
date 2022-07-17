@@ -75,6 +75,7 @@ List of notable tech companies in Singapore.
 - Ninja Van
 - Splyt
 - Shopback
+- Lazada
 
 ## Other notable global companies
 
