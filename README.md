@@ -3,16 +3,10 @@
 List of notable tech companies in Singapore.
 
 > **Warning**
-> Categories are completely subjective and derived from my uniformed and bias perspective as SWE.
-> 
-> **Warning**
-> Relative positions in each category are completely random.
+> Categories are completely subjective and derived from my own uniformed and bias perspective. Relative positions in each category are completely random.
 
 > **Warning**
-> This list is not meant to be serious or exhaustive.
-> 
-> **Warning**
-> I am not affiliated to any companies listed below.
+> This list is not meant to be serious or exhaustive. I am not affiliated to any companies listed below.
 
 > **Note**
 > Banks and non-tech companies are intentionally omitted from the list.
