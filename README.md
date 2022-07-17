@@ -67,7 +67,7 @@ List of notable tech companies in Singapore.
 
 - GovTech
 
-## Other local startups
+## Other notable local startups
 
 - Carousell
 - CARRO
