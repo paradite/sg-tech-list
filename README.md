@@ -20,21 +20,28 @@ Casual list of notable tech companies in Singapore.
 
 ## FAANG equivalent / Chinese FAANG
 
-- Microsoft
+- Microsoft (LinkedIn)
 - ByteDance (TikTok, Lark)
 - Alibaba (Ant)
+- Tencent
 
 ## "FAANG lite"
 
 - Stripe
 - Grab (GXS)
+- Gojek
 - SEA (Shopee, Garena)
+- Foodpanda
 
 ## Fintech
 
 - Wise
+- Rapyd
 - PayPal
 - StashAway
+- Endowus
+- Syfe
+- Aspire
 
 ## Crypto
 
@@ -60,6 +67,7 @@ Casual list of notable tech companies in Singapore.
 - Carousell
 - CARRO
 - Ninja Van
+- Splyt
 
 ## Other notable global companies
 
