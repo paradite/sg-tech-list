@@ -10,7 +10,7 @@ Casual list of notable tech companies in Singapore.
 > This list is not meant to be serious or exhaustive.
 > I am not affiliated to any companies listed below.
 
-# FAANG 
+## FAANG 
 
 - Meta (Facebook)
 - Apple
@@ -18,25 +18,25 @@ Casual list of notable tech companies in Singapore.
 - Netflix
 - Google
 
-# BAT (Chinese FAANG)
+## FAANG equivalent / Chinese FAANG
 
+- Microsoft
 - ByteDance (TikTok, Lark)
 - Alibaba (Ant)
 
-# "FAANG lite"
+## "FAANG lite"
 
 - Stripe
 - Grab (GXS)
-- SEA (Shopee)
+- SEA (Shopee, Garena)
 
-# Fintech
+## Fintech
 
 - Wise
 - PayPal
-- Visa
-- Mastercard
+- StashAway
 
-# Crypto
+## Crypto
 
 - Coinbase
 - Binance
@@ -44,22 +44,36 @@ Casual list of notable tech companies in Singapore.
 - Bybit
 - Coinhako
 
-# Consulting
+## Consulting
 
 - Thoughtworks
 - Accenture
 - Boston Consulting Group (BCG)
 
-# Gaming
+## Gaming
 
 - Ubisoft
+- miHoYo
 
-# Other notable startups
+## Other local startups
 
-- WeWork
+- Carousell
 - CARRO
 - Ninja Van
 
-# Other notable big companies
+## Other notable global companies
 
 - Rakuten Viki
+- Autodesk
+- Agoda
+- WeWork
+- Shopify
+- Visa
+- Mastercard
+
+---
+
+## More information / Source
+
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
