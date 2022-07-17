@@ -92,6 +92,7 @@ Casual list of notable tech companies in Singapore.
 - Mastercard
 - GitLab
 - Spotify
+- Salesforce
 
 ---
 
