@@ -1,4 +1,4 @@
-# sg-tech-list
+# SG Tech List
 
 List of notable tech companies in Singapore.
 
