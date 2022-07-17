@@ -1,6 +1,6 @@
 # sg-tech-list
 
-Casual list of notable tech companies in Singapore.
+List of notable tech companies in Singapore.
 
 > **Warning**
 > Categories are completely subjective and derived from my uniformed and bias perspective as SWE.
