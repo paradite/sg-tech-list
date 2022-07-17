@@ -94,4 +94,4 @@ List of notable tech companies in Singapore.
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
-- [NodeFlair](https://www.nodeflair.com/companies)
+- [NodeFlair.Companies](https://www.nodeflair.com/companies)
