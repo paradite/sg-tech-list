@@ -19,7 +19,7 @@ List of notable tech companies in Singapore.
 - Netflix
 - Google
 
-## FAANG equivalent
+## FAANG extended / FAANG+
 
 - Microsoft (LinkedIn)
 - Stripe
