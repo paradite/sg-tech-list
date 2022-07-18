@@ -85,6 +85,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Shopback
 - Lazada
 - NextBillion.ai
+- Mighty Jaxx
 
 ## Other notable global companies
 
