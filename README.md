@@ -97,9 +97,11 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ---
 
-## Credits / Source
+## Credits
 
 Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng) 
+
+## Data Sources
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
