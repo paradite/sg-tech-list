@@ -55,14 +55,9 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Bybit
 - Coinhako
 
-## Tech Consulting (General)
+## Tech Consulting
 
 - Thoughtworks
-- Accenture
-- Boston Consulting Group (BCG)
-
-## Tech Consulting (Specialized)
-
 - Confluent (Kafka)
 - Snowflake
 - Elastic (ELK)
@@ -89,14 +84,12 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Other notable global companies
 
 - Rakuten Viki
-- Autodesk
 - Agoda
 - WeWork
 - Shopify
 - Visa
 - Mastercard
 - GitLab
-- Spotify
 - Salesforce
 - Indeed
 - Zendesk
