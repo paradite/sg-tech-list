@@ -17,7 +17,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Apple
 - Amazon (AWS)
 - Netflix
-- Google
+- Google (NBU)
 
 ## FAANG extended / FAANG+
 
