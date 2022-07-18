@@ -55,11 +55,17 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Bybit
 - Coinhako
 
-## Consulting
+## Tech Consulting (General)
 
 - Thoughtworks
 - Accenture
 - Boston Consulting Group (BCG)
+
+## Tech Consulting (Specialized)
+
+- Confluent (Kafka)
+- Snowflake
+- Elastic (ELK)
 
 ## Gaming
 
@@ -104,5 +110,6 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 ## Data Sources
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- [LinkedIn Search](https://www.linkedin.com/search/results/people/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
 - [NodeFlair.Companies](https://www.nodeflair.com/companies)
