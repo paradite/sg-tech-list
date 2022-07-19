@@ -48,6 +48,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Syfe
 - Aspire
 - Atome
+- [Spenmo](https://www.spenmo.com/)
 
 ## Crypto
 
