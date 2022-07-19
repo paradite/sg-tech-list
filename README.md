@@ -47,6 +47,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Endowus
 - Syfe
 - Aspire
+- Atome
 
 ## Crypto
 
@@ -55,6 +56,9 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Cake DeFi
 - Bybit
 - Coinhako
+- Crypto.com
+- Matrixport
+- Bitdeer
 
 ## Tech Consulting
 
