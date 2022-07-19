@@ -106,3 +106,7 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 - [LinkedIn Search](https://www.linkedin.com/search/results/people/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
 - [NodeFlair.Companies](https://www.nodeflair.com/companies)
+
+## Similar projects
+
+- [Good-tier Tech companies in Singapore](https://github.com/Nasdin/Good-Tech-Companies-Singapore)
