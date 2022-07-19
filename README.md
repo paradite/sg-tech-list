@@ -24,6 +24,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Microsoft (LinkedIn, Azure, GitHub)
 - Stripe
 - Twitter
+- Cloudflare
 
 ## Chinese FAANG
 - ByteDance (TikTok, Lark)
@@ -93,6 +94,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Salesforce
 - Indeed
 - Zendesk
+- Twilio
 
 ---
 
