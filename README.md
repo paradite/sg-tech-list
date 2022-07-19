@@ -57,10 +57,11 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Tech Consulting
 
-- Thoughtworks
 - Confluent (Kafka)
-- Snowflake
 - Elastic (ELK)
+- Palo IT
+- Snowflake
+- Thoughtworks
 
 ## Gaming
 
