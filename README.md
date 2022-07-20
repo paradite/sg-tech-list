@@ -75,7 +75,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Government
 
-- GovTech
+- GovTech (OGP)
 
 ## Other notable local startups
 
