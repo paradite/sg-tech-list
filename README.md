@@ -100,6 +100,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Indeed
 - Zendesk
 - Twilio
+- Coupang
 
 ---
 
