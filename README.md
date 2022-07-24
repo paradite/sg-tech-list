@@ -49,6 +49,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Aspire
 - Atome
 - Spenmo
+- Xendit
 
 ## Crypto
 
@@ -118,3 +119,7 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 ## Similar projects
 
 - [Good-tier Tech companies in Singapore](https://github.com/Nasdin/Good-Tech-Companies-Singapore)
+
+## Salary sources
+- [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
+- [Glassdoor.Salaries](https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm)
