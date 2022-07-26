@@ -40,6 +40,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Fintech
 
+- Funding Societies | Modalku
 - Wise
 - Rapyd
 - PayPal
