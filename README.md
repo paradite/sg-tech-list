@@ -51,6 +51,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Atome
 - Spenmo
 - Xendit
+- Jane Street
 
 ## Crypto
 
