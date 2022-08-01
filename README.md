@@ -106,6 +106,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Twilio
 - Coupang
 - TheTradeDesk
+- ExpressVPN
 
 ---
 
