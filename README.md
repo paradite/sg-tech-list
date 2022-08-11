@@ -131,6 +131,7 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 ## Similar projects
 
 - [Good-tier Tech companies in Singapore](https://github.com/Nasdin/Good-Tech-Companies-Singapore)
+- [List of Top Tech Companies in Singapore (besides FAANG) - NodeFlair](https://nodeflair.com/blog/top-tech-companies-in-singapore)
 
 ## Salary sources
 - [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
