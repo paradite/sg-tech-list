@@ -81,6 +81,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - Ubisoft
 - miHoYo
+- Riot Games
 
 ## Government
 
@@ -112,7 +113,6 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Coupang
 - TheTradeDesk
 - ExpressVPN
-- Riot Games
 - Zoom
 
 ---
