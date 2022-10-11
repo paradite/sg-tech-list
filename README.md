@@ -117,6 +117,12 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ---
 
+## More company lists
+
+16x Engineer has a collection of tech company lists in Singapore:
+
+- [Tech Company Lists - 16x Engineer](https://16x.engineer/resources/#tech-companies)
+
 ## Credits
 
 Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng) 
@@ -127,11 +133,6 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 - [LinkedIn Search](https://www.linkedin.com/search/results/people/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
 - [NodeFlair.Companies](https://www.nodeflair.com/companies)
-
-## Similar projects
-
-- [Good-tier Tech companies in Singapore](https://github.com/Nasdin/Good-Tech-Companies-Singapore)
-- [List of Top Tech Companies in Singapore (besides FAANG) - NodeFlair](https://nodeflair.com/blog/top-tech-companies-in-singapore)
 
 ## Salary sources
 - [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
