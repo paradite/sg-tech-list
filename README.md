@@ -57,6 +57,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Jane Street
 - Jump Trading
 - Hudson River Trading (HRT)
+- Optiver
 
 ## Crypto
 
