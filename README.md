@@ -77,6 +77,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Confluent (Kafka)
 - Snowflake
 - Elastic (ELK)
+- Unity Technologies
 
 ## Gaming
 
