@@ -64,6 +64,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Tower Research
 - Squarepoint
 - AlphaLab Capital
+- Grasshopper
 
 ## Crypto
 
