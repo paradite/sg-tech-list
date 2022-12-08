@@ -51,6 +51,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Atome
 - Spenmo
 - Xendit
+- Adyen
 
 ## Trading
 
@@ -58,6 +59,11 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Jump Trading
 - Hudson River Trading (HRT)
 - Optiver
+- Citadel Securities
+- DRW
+- Tower Research
+- Squarepoint
+- AlphaLab Capital
 
 ## Crypto
 
@@ -70,6 +76,8 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Matrixport
 - Bitdeer
 - OKX
+- Amber Group
+- Nansen
 
 ## Tech Consulting
 
