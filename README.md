@@ -70,13 +70,17 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - Coinbase
 - Binance
-- Cake DeFi
 - Bybit
 - Coinhako
 - Crypto.com
-- Matrixport
 - Bitdeer
 - OKX
+- MEXC
+
+## Web3
+
+- Cake DeFi
+- Matrixport
 - Amber Group
 - Nansen
 
