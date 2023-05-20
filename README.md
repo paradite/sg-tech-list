@@ -2,9 +2,9 @@
 
 List of notable tech companies in Singapore. Useful when looking for a new job. 
 
-**Note** Banks and non-tech companies are intentionally omitted from the list.
+> **Note** Banks and non-tech companies are intentionally omitted from the list.
 
-**Note** Legends: 🛑 Recent Layoff | ⏸️ Not Hiring | 🟢 Actively Hiring
+> **Note** Legends: 🛑 Recent Layoff | ⏸️ Not Hiring | 🟢 Actively Hiring
 
 ## FAANG 
 
