@@ -95,7 +95,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - GovTech 
   - OGP ⏸️
 
-## Other notable local startups
+## Other notable local companies
 
 - Carousell
 - CARRO
@@ -104,6 +104,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Shopback
 - Lazada
 - NextBillion.ai
+- Circles.Life 🛑
 
 ## Other notable global companies
 
