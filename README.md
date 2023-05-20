@@ -145,3 +145,7 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 ## Salary sources
 - [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
 - [Glassdoor.Salaries](https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm)
+
+## Contribution
+
+This is community collaborative project. PRs are welcome!
