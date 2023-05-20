@@ -2,32 +2,27 @@
 
 List of notable tech companies in Singapore. Useful when looking for a new job. 
 
-> **Warning**
-> Categories are highly subjective and potentially biased. Relative positions within a category are arbitrary.
+**Note** Banks and non-tech companies are intentionally omitted from the list.
 
-> **Warning**
-> The list is not meant to be exhaustive. I am not affiliated to any companies listed.
-
-> **Note**
-> Banks and non-tech companies are intentionally omitted from the list.
+**Note** Legends: 🛑 Recent Layoff | ⏸️ Not Hiring | 🟢 Actively Hiring
 
 ## FAANG 
 
-- Meta (Facebook)
+- Meta (Facebook) 🛑
 - Apple
-- Amazon (AWS)
+- Amazon (AWS) 🛑
 - Netflix
-- Google (NBU)
+- Google (NBU) 🛑
 
 ## FAANG extended / FAANG+
 
 - Microsoft (LinkedIn, Azure, GitHub)
 - Stripe
-- Twitter
+- Twitter 🛑
 - Cloudflare
 
 ## Chinese FAANG
-- ByteDance (TikTok, Lark)
+- ByteDance (TikTok, Lark) 🟢
 - Alibaba (Ant)
 - Tencent
 
@@ -35,7 +30,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - Grab (GXS)
 - Gojek
-- SEA (Shopee, Garena)
+- SEA (Shopee, Garena) 🛑
 - Foodpanda
 
 ## Fintech
@@ -44,7 +39,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Wise
 - Rapyd
 - PayPal
-- StashAway
+- StashAway 🛑
 - Endowus
 - Syfe
 - Aspire
@@ -69,12 +64,12 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Crypto
 
-- Coinbase
-- Binance
+- Coinbase 🛑
+- Binance 🟢
 - Cake DeFi
-- Bybit
+- Bybit 🛑
 - Coinhako
-- Crypto.com
+- Crypto.com 🛑
 - Matrixport
 - Bitdeer
 - OKX
@@ -92,12 +87,13 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Gaming
 
 - Ubisoft
-- miHoYo
-- Riot Games
+- HoYoverse (miHoYo) 🟢
+- Riot Games 🟢
 
 ## Government
 
-- GovTech (OGP)
+- GovTech 
+  - OGP ⏸️
 
 ## Other notable local startups
 
@@ -114,12 +110,12 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Rakuten Viki
 - Agoda
 - WeWork
-- Shopify
+- Shopify 🛑
 - Visa
 - Mastercard
 - GitLab
 - Salesforce
-- Indeed
+- Indeed 🛑
 - Zendesk
 - Twilio
 - Coupang
