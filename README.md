@@ -4,21 +4,24 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
-> **Note** 🛑 Recent Layoff (2022/2023) | ⏸️ Not Hiring | 🟢 Actively Hiring
+> **Note** 🔴 Layoff (2023) | 🟠 Layoff (2022) | ⏸️ Not Hiring | 🟢 Actively Hiring
 
 ## FAANG 
 
-- Meta (Facebook) 🛑
+- Meta (Facebook) 🔴
 - Apple
-- Amazon (AWS) 🛑
+- Amazon (AWS) 🔴
 - Netflix
-- Google (NBU) 🛑
+- Google (NBU) 🔴
 
 ## FAANG extended / FAANG+
 
-- Microsoft (LinkedIn, Azure, GitHub)
+- Microsoft 🔴
+  - LinkedIn 🔴
+  - Azure
+  - GitHub 🔴
 - Stripe
-- Twitter 🛑
+- Twitter 🔴
 - Cloudflare
 
 ## Chinese FAANG
@@ -30,16 +33,16 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - Grab (GXS)
 - Gojek
-- SEA (Shopee, Garena) 🛑
-- Foodpanda 🛑
+- SEA (Shopee, Garena) 🔴
+- Foodpanda 🔴
 
 ## Fintech
 
 - Funding Societies | Modalku
 - Wise
 - Rapyd
-- PayPal
-- StashAway 🛑
+- PayPal 🔴
+- StashAway 🟠
 - Endowus
 - Syfe
 - Aspire
@@ -64,13 +67,13 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Crypto
 
-- Coinbase 🛑
+- Coinbase 🔴
 - Binance 🟢
 - Cake DeFi
-- Bybit 🛑
+- Bybit 🟠
 - Coinhako
-- Crypto.com 🛑
-- Matrixport 🛑
+- Crypto.com 🔴
+- Matrixport 🔴
 - Bitdeer
 - OKX
 - Amber Group
@@ -78,7 +81,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Tech Consulting
 
-- Thoughtworks
+- Thoughtworks 🔴
 - Confluent (Kafka)
 - Snowflake
 - Elastic (ELK)
@@ -97,33 +100,33 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Other notable local companies
 
-- Carousell 🛑
+- Carousell 🟠
 - CARRO
 - Ninja Van
 - Splyt
 - Shopback
 - Lazada
 - NextBillion.ai
-- Circles.Life 🛑
-- Glints 🛑
+- Circles.Life 🟠
+- Glints 🟠
 
 ## Other notable global companies
 
 - Rakuten Viki
 - Agoda
 - WeWork
-- Shopify 🛑
+- Shopify 🔴
 - Visa
 - Mastercard
-- GitLab
+- GitLab 🔴
 - Salesforce
-- Indeed 🛑
+- Indeed 🔴
 - Zendesk
 - Twilio
 - Coupang
 - TheTradeDesk
 - ExpressVPN
-- Zoom
+- Zoom 🔴
 
 ---
 
