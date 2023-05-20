@@ -148,4 +148,4 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 
 ## Contribution
 
-This is community collaborative project. PRs are welcome!
+This is a community collaborative project. PRs are welcome!
