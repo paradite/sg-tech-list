@@ -4,7 +4,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
-> **Note** Legends: 🛑 Recent Layoff | ⏸️ Not Hiring | 🟢 Actively Hiring
+> **Note** 🛑 Recent Layoff (2022/2023) | ⏸️ Not Hiring | 🟢 Actively Hiring
 
 ## FAANG 
 
@@ -97,7 +97,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Other notable local companies
 
-- Carousell
+- Carousell 🛑
 - CARRO
 - Ninja Van
 - Splyt
@@ -105,6 +105,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Lazada
 - NextBillion.ai
 - Circles.Life 🛑
+- Glints 🛑
 
 ## Other notable global companies
 
