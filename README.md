@@ -130,6 +130,10 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ---
 
+## SG Tech Stack
+
+- [Tech Stack of Singapore tech companies](https://github.com/paradite/sg-tech-stack)
+
 ## More company lists
 
 16x Engineer has a collection of tech company lists in Singapore:
