@@ -95,9 +95,23 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Government
 
+### Civil
+
 - GovTech
   - OGP ⏸️
+  - ESTL 🟢
+  - DSAID (Data Science and AI Division) 🟢
+- HDB 🟢
+- NLB 🟢
+- IRAS 🟢
+- STB 🟢
+- MAS 🟢
+
+### Defence
+
 - DSTA 🟢
+- DIS (Digital and Intelligence Service, SAF) 🟢
+- CSIT 🟢
 
 ## Other notable local companies
 
