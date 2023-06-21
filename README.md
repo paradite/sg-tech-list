@@ -31,7 +31,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## "FAANG lite"
 
-- Grab (GXS)
+- Grab (GXS) 🔴
 - Gojek
 - SEA (Shopee, Garena) 🔴
 - Foodpanda 🔴
