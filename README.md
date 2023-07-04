@@ -143,21 +143,21 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ---
 
-## SG Tech Stack
+## Other Resources
+
+**SG Tech Stack**
 
 - [Tech Stack of Singapore tech companies](https://github.com/paradite/sg-tech-stack)
 
-## More company lists
+**Company lists**
 
-16x Engineer has a collection of tech company lists in Singapore:
+[16x Engineer](https://16x.engineer/) has a collection of tech company lists in Singapore:
 
 - [Tech Company Lists - 16x Engineer](https://16x.engineer/resources/#tech-companies)
 
 ## Credits
 
 Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng) 
-
-## Data Sources
 
 ### Job Postings
 
@@ -177,3 +177,5 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 ## Contribution
 
 This is a community collaborative project. PRs are welcome!
+
+[GitHub repo](https://github.com/paradite/sg-tech-list)
