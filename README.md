@@ -4,7 +4,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
-> **Note** 🔴 Layoff (2023) | 🟠 Layoff (2022) | ⏸️ Not Hiring | 🟢 Actively Hiring
+> **Note** 🔴 Layoff (2023) | 🟠 Layoff (2022) | 🟢 Actively Hiring
 
 ## FAANG 
 
@@ -31,7 +31,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## "FAANG lite"
 
-- Grab (GXS) 🔴
+- Grab (GXS) 🔴 [Layoff 1000 in June 2023](https://www.techinasia.com/grab-plans-largest-layoffs-growing-competition-report)
 - Gojek
 - SEA (Shopee, Garena) 🔴
 - Foodpanda 🔴
@@ -68,7 +68,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Crypto
 
 - Coinbase 🔴
-- Binance 🔴
+- Binance 🔴 [Layoff 1000 in July 2023](https://www.reuters.com/technology/binance-lays-off-over-1000-employees-wsj-2023-07-14/)
 - Cake DeFi
 - Bybit 🟠
 - Coinhako
@@ -96,7 +96,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Government
 
 ### Civil
-- OGP ⏸️
+- OGP
 - GovTech
   - ESTL 🟢
   - DSAID (Data Science and AI Division) 🟢
@@ -134,7 +134,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - GitLab 🔴
 - Salesforce
 - Indeed 🔴
-- Zendesk 🔴
+- Zendesk 🔴 [Layoff 8% in May 2023](https://www.zendesk.com/sg/newsroom/articles/zendesk-workforce-reduction/)
 - Twilio
 - Coupang
 - TheTradeDesk
