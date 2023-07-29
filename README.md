@@ -138,7 +138,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Twilio
 - Coupang
 - TheTradeDesk
-- ExpressVPN
+- ExpressVPN 🔴 [Layoff 200 in July 2023](https://sg.news.yahoo.com/tech-layoffs-cybersecurity-firm-behind-160913325.html)
 - Zoom 🔴
 
 ---
