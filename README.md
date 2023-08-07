@@ -1,12 +1,12 @@
 # SG Tech List
 
-List of notable tech companies in Singapore. Useful when looking for a new job. 
+List of notable tech companies in Singapore. Useful when looking for a new job.
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
 > **Note** 🔴 Layoff (2023) | 🟠 Layoff (2022) | 🟢 Actively Hiring
 
-## FAANG 
+## FAANG
 
 - Meta (Facebook) 🔴
 - Apple
@@ -25,6 +25,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Cloudflare
 
 ## Chinese FAANG
+
 - ByteDance (TikTok, Lark) 🟢
 - Alibaba (Ant)
 - Tencent
@@ -96,6 +97,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Government
 
 ### Civil
+
 - OGP
 - GovTech
   - ESTL 🟢
@@ -122,6 +124,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - NextBillion.ai
 - Circles.Life 🟠
 - Glints 🟠
+- Mobbin 🟢
 
 ## Other notable global companies
 
@@ -157,7 +160,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Credits
 
-Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng) 
+Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng)
 
 ### Job Postings
 
@@ -167,6 +170,7 @@ Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.
 - [NodeFlair.Companies](https://www.nodeflair.com/companies)
 
 ### Salary
+
 - [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
 - [Glassdoor.Salaries](https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm)
 
