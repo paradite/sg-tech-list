@@ -148,6 +148,10 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Other Resources
 
+**Internships**
+
+- [Summer 2024 Tech Internships - Singapore](https://github.com/kxrt/Singapore-Summer2024-TechInternships)
+
 **SG Tech Stack**
 
 - [Tech Stack of Singapore tech companies](https://github.com/paradite/sg-tech-stack)
