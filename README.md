@@ -152,11 +152,11 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - [Summer 2024 Tech Internships - Singapore](https://github.com/kxrt/Singapore-Summer2024-TechInternships)
 
-**SG Tech Stack**
+**Tech Stack**
 
 - [Tech Stack of Singapore tech companies](https://github.com/paradite/sg-tech-stack)
 
-**Company lists**
+**More company lists**
 
 [16x Engineer](https://16x.engineer/) has a collection of tech company lists in Singapore:
 
@@ -166,19 +166,19 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng)
 
-### Job Postings
+Job Postings
 
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [LinkedIn Search](https://www.linkedin.com/search/results/people/)
 - [MyCareersFuture](https://www.mycareersfuture.gov.sg/)
 - [NodeFlair.Companies](https://www.nodeflair.com/companies)
 
-### Salary
+Salary
 
 - [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
 - [Glassdoor.Salaries](https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm)
 
-### Layoff events
+Layoff events
 
 - [Layoffs.fyi](https://layoffs.fyi/)
 
