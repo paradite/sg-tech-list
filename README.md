@@ -43,13 +43,13 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Wise
 - Rapyd
 - PayPal 🔴
-- StashAway 🟠
-- Endowus
+- StashAway 🟠 [Layoff 14%](https://www.techinasia.com/stashaway-lays-off-staff) 
+- Endowus 🔴  [Layoff 10%](https://www.techinasia.com/endowus-cuts-10-staff-market-downturn)
 - Syfe
 - Aspire
 - Atome
 - Spenmo
-- Xendit
+- Xendit  🟠 
 - Adyen
 - Arta Finance
 
@@ -78,7 +78,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Bitdeer
 - OKX
 - Amber Group
-- Nansen
+- Nansen  🔴 [Layoff 30%](https://cointelegraph.com/news/nansen-lays-off-30-of-its-workforce)
 
 ## Tech Consulting
 
