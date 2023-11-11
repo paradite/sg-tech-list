@@ -4,7 +4,8 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
-> **Note** 🔴 Layoff (2023) | 🟠 Layoff (2022) | 🟢 Actively Hiring
+> **Note** 
+> 😭 Offer Rescinded (2023) | 🔴 Layoff (2023) | 🟠 Layoff (2022) | 🟢 Actively Hiring
 
 ## FAANG
 
@@ -99,7 +100,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ### Civil
 
 - OGP
-- GovTech
+- GovTech 😭
   - ESTL 🟢
   - DSAID (Data Science and AI Division) 🟢
 - HDB 🟢
@@ -125,6 +126,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Circles.Life 🟠
 - Glints 🟠
 - Mobbin 🟢
+- Singapore Airlines 😭
 
 ## Other notable global companies
 
