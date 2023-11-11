@@ -54,7 +54,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Endowus 🔴  [Layoff 10%](https://www.techinasia.com/endowus-cuts-10-staff-market-downturn)
 - Syfe
 - Aspire
-- Atome
+- Atome 😭 (verbal offer)
 - Spenmo  🔴 [Layoff 60-70%] (https://www.techinasia.com/spenmo-lays-off-staff-in-bid-to-become-profitable)
 - Xendit  🟠 
 - Adyen
