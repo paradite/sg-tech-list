@@ -100,7 +100,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ### Civil
 
 - OGP
-- GovTech 😭
+- GovTech 😭 (verbal offer)
   - ESTL 🟢
   - DSAID (Data Science and AI Division) 🟢
 - HDB 🟢
