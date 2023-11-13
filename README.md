@@ -81,7 +81,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 - Coinbase 🔴
 - Binance 🔴 [Layoff 1000 in July 2023](https://www.reuters.com/technology/binance-lays-off-over-1000-employees-wsj-2023-07-14/)
-- Cake DeFi 🔴 [Layoff 34 since 2023] (https://www.techinasia.com/cake-group-lays-staff-revenue-decline-denies-costcutting)
+- Cake DeFi 🔴 [Layoff 34 since 2023](https://www.techinasia.com/cake-group-lays-staff-revenue-decline-denies-costcutting)
 - Bybit 🟠
 - Coinhako
 - Crypto.com 🔴
