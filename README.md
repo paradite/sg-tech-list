@@ -5,9 +5,9 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
 > **Note** 
-> 😭 Offer Rescinded (2023)
+> 😭 Offer Rescinded (2024/2023)
 > 
-> 🔴 Layoff (2023)
+> 🔴 Layoff (2024/2023)
 > 
 > 🟠 Layoff (2022)
 > 
@@ -131,7 +131,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Ninja Van
 - Splyt
 - Shopback
-- Lazada
+- Lazada 🔴
 - NextBillion.ai
 - Circles.Life 🟠
 - Glints 🟠
