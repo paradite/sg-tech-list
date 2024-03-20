@@ -132,7 +132,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - CARRO
 - Ninja Van
 - Splyt
-- Shopback 🔴 [Layoff 195, 24%](https://corporate.shopback.com/press/a-message-from-henry-on-focus-and-sustainability---a-painful-decision)
+- Shopback 🔴 [Layoff 195, 24% in March 2024](https://corporate.shopback.com/press/a-message-from-henry-on-focus-and-sustainability---a-painful-decision)
 - Lazada 🔴
 - NextBillion.ai
 - Circles.Life 🟠
