@@ -27,9 +27,9 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
   - LinkedIn 🔴
   - Azure
   - GitHub 🔴
-- Stripe
-- Twitter 🔴
-- Cloudflare
+- Stripe 🟠 [Layoff 14% in Nov 2022](https://www.cnbc.com/2022/11/03/stripe-plans-to-lay-off-14percent-of-workers.html)
+- Twitter 🟠 [Layoff 80% in Nov 2022](https://www.reuters.com/legal/twitter-again-accused-legal-violations-during-mass-layoffs-2023-04-04/)
+- Cloudflare 🔴 [Anecdotes in Jan 2024](https://news.ycombinator.com/item?id=38961859)
 
 ## Chinese FAANG
 
@@ -54,9 +54,9 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Endowus 🔴  [Layoff 10%](https://www.techinasia.com/endowus-cuts-10-staff-market-downturn)
 - Syfe
 - Aspire
-- Atome 😭 (verbal offer)
-- Spenmo  🔴 [Layoff 60-70%](https://www.techinasia.com/spenmo-lays-off-staff-in-bid-to-become-profitable)
-- Xendit  🟠 
+- Atome 😭 (verbal offer) 🟠 [Layoff in 2022 in Indonesia](https://www.techinasia.com/atome-downsizes-earnings-uptick)
+- Spenmo 🔴 [Layoff 60-70%](https://www.techinasia.com/spenmo-lays-off-staff-in-bid-to-become-profitable)
+- Xendit 🟠 
 - Adyen
 - Arta Finance
 
@@ -103,7 +103,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ## Gaming
 
-- Ubisoft
+- Ubisoft 🔴 [Layoff 124 in Nov 2023 in Canada](https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed)
 - HoYoverse (miHoYo) 🟢
 - Riot Games 🟢
 
@@ -150,7 +150,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Mastercard
 - GitLab 🔴
 - Salesforce
-- Indeed 🔴
+- Indeed 🔴 [Layoff 200 in March 2023](https://www.businesstimes.com.sg/startups-tech/startups/jobs-portal-indeed-shuts-singapore-tech-office-amid-global-layoffs)
 - Zendesk 🔴 [Layoff 8% in May 2023](https://www.zendesk.com/sg/newsroom/articles/zendesk-workforce-reduction/)
 - Twilio
 - Coupang
