@@ -59,6 +59,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Xendit 🟠 
 - Adyen
 - Arta Finance
+- Ascenda Loyalty 🟢
 
 ## Trading
 
