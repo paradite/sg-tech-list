@@ -160,10 +160,9 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 
 ---
 
+## Other Resources
 
-## Job Listings
-
-**Curated Lists**
+**Job Listings**
 
 - [Summer 2024 Tech Internships](https://techinternships.kxrt.me/)
   - [GitHub](https://github.com/kxrt/Singapore-Summer2024-TechInternships)
@@ -176,14 +175,20 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - [NodeFlair.Jobs](https://nodeflair.com/jobs?countries%5B%5D=Singapore)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 
+**Salary**
 
-## Other Resources
+- [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
+- [Glassdoor.Salaries](https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm)
+
+**Layoff**
+
+- [Layoffs.fyi](https://layoffs.fyi/)
 
 **Tech Stack**
 
 - [Tech Stack of Singapore tech companies](https://github.com/paradite/sg-tech-stack)
 
-**More company lists**
+**Company lists**
 
 [16x Engineer](https://16x.engineer/) has a collection of tech company lists in Singapore:
 
@@ -192,15 +197,6 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Credits
 
 Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng)
-
-Salary
-
-- [NodeFlair.Salaries](https://www.nodeflair.com/salaries)
-- [Glassdoor.Salaries](https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm)
-
-Layoff events
-
-- [Layoffs.fyi](https://layoffs.fyi/)
 
 ## Contribution
 
