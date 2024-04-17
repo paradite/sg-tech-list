@@ -30,6 +30,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Stripe 🟠 [Layoff 14% in Nov 2022](https://www.cnbc.com/2022/11/03/stripe-plans-to-lay-off-14percent-of-workers.html)
 - Twitter 🟠 [Layoff 80% in Nov 2022](https://www.reuters.com/legal/twitter-again-accused-legal-violations-during-mass-layoffs-2023-04-04/)
 - Cloudflare 🔴 [Anecdotes in Jan 2024](https://news.ycombinator.com/item?id=38961859)
+- VMware 🔴 [Mass layoffs Nov 2023 - August 2024](https://techwireasia.com/12/2023/what-happens-next-with-vmware-after-layoffs-and-redundancy/)
 
 ## Chinese FAANG
 
@@ -97,6 +98,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 ## Tech Consulting
 
 - Thoughtworks 🔴
+- Pivotal Labs (VMware Tanzu Labs) 🔴
 - Confluent (Kafka)
 - Snowflake
 - Elastic (ELK)
