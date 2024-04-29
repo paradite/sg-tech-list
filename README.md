@@ -128,6 +128,7 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - DSTA 🟢
 - DIS (Digital and Intelligence Service, SAF) 🟢
 - CSIT 🟢
+- HTX 🟢
 
 ## Other notable local companies
 
