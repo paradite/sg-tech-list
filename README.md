@@ -144,6 +144,8 @@ List of notable tech companies in Singapore. Useful when looking for a new job.
 - Glints 🟠
 - Mobbin 🟢
 - Singapore Airlines 😭
+- heymax.ai
+- Voltade
 
 ## Other notable global companies
 
