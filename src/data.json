@@ -205,12 +205,5 @@
     "Company lists": [
       {"name": "Tech Company Lists - 16x Engineer", "link": "https://16x.engineer/resources/#tech-companies"}
     ]
-  },
-  "credits": [
-    {"name": "MrMarciaOng", "note": "Credit for inventing the term 'FAANG lite'", "link": "https://github.com/MrMarciaOng"}
-  ],
-  "contribution": {
-    "note": "This is a community collaborative project. PRs are welcome!",
-    "link": "https://github.com/paradite/sg-tech-list"
   }
 }
