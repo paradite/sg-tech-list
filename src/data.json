@@ -1,0 +1,216 @@
+{
+  "categories": [
+    {
+      "name": "FAANG",
+      "companies": [
+        {"name": "Meta (Facebook)", "status": "🔴"},
+        {"name": "Apple", "status": ""},
+        {"name": "Amazon (AWS)", "status": "🔴"},
+        {"name": "Netflix", "status": ""},
+        {"name": "Google (NBU)", "status": "🔴"}
+      ]
+    },
+    {
+      "name": "FAANG extended / FAANG+",
+      "companies": [
+        {"name": "Microsoft", "status": "🔴"},
+        {"name": "LinkedIn", "status": "🔴", "sub": true},
+        {"name": "Azure", "status": "", "sub": true},
+        {"name": "GitHub", "status": "🔴", "sub": true},
+        {"name": "Stripe", "status": "🟠", "note": "Layoff 14% in Nov 2022", "link": "https://www.cnbc.com/2022/11/03/stripe-plans-to-lay-off-14percent-of-workers.html"},
+        {"name": "Twitter", "status": "🟠", "note": "Layoff 80% in Nov 2022", "link": "https://www.reuters.com/legal/twitter-again-accused-legal-violations-during-mass-layoffs-2023-04-04/"},
+        {"name": "Cloudflare", "status": "🔴", "note": "Anecdotes in Jan 2024", "link": "https://news.ycombinator.com/item?id=38961859"}
+      ]
+    },
+    {
+      "name": "Chinese FAANG",
+      "companies": [
+        {"name": "ByteDance (TikTok, Lark)", "status": "🟢"},
+        {"name": "Alibaba (Ant)", "status": ""},
+        {"name": "Tencent", "status": ""}
+      ]
+    },
+    {
+      "name": "\"FAANG lite\"",
+      "companies": [
+        {"name": "Grab (GXS)", "status": "🔴", "note": "Layoff 1000 in June 2023", "link": "https://www.techinasia.com/grab-plans-largest-layoffs-growing-competition-report"},
+        {"name": "Gojek", "status": ""},
+        {"name": "SEA (Shopee, Garena)", "status": "🔴"},
+        {"name": "Foodpanda", "status": "🔴"}
+      ]
+    },
+    {
+      "name": "Fintech",
+      "companies": [
+        {"name": "Funding Societies | Modalku", "status": ""},
+        {"name": "Wise", "status": ""},
+        {"name": "Rapyd", "status": ""},
+        {"name": "PayPal", "status": "🔴"},
+        {"name": "StashAway", "status": "🟠", "note": "Layoff 14%", "link": "https://www.techinasia.com/stashaway-lays-off-staff"},
+        {"name": "Endowus", "status": "🔴", "note": "Layoff 10%", "link": "https://www.techinasia.com/endowus-cuts-10-staff-market-downturn"},
+        {"name": "Syfe", "status": ""},
+        {"name": "Aspire", "status": ""},
+        {"name": "Atome", "status": "😭🟠", "note": "Layoff in 2022 in Indonesia", "link": "https://www.techinasia.com/atome-downsizes-earnings-uptick"},
+        {"name": "Spenmo", "status": "🔴", "note": "Layoff 60-70%", "link": "https://www.techinasia.com/spenmo-lays-off-staff-in-bid-to-become-profitable"},
+        {"name": "Xendit", "status": "🟠"},
+        {"name": "Adyen", "status": ""},
+        {"name": "Arta Finance", "status": ""},
+        {"name": "Ascenda Loyalty", "status": "🟢"},
+        {"name": "DKatalis", "status": "🟢"}
+      ]
+    },
+    {
+      "name": "Trading",
+      "companies": [
+        {"name": "Jane Street", "status": ""},
+        {"name": "Jump Trading", "status": ""},
+        {"name": "Hudson River Trading (HRT)", "status": ""},
+        {"name": "Optiver", "status": ""},
+        {"name": "Citadel Securities", "status": ""},
+        {"name": "DRW", "status": ""},
+        {"name": "Tower Research", "status": ""},
+        {"name": "Squarepoint", "status": ""},
+        {"name": "AlphaLab Capital", "status": ""},
+        {"name": "Grasshopper", "status": ""},
+        {"name": "Qube Research & Technologies (QRT)", "status": ""},
+        {"name": "Quantedge", "status": ""},
+        {"name": "WorldQuant", "status": ""},
+        {"name": "BlockTech", "status": ""},
+        {"name": "D. E. Shaw & Co.", "status": ""},
+        {"name": "Two Sigma", "status": ""}
+      ]
+    },
+    {
+      "name": "Crypto",
+      "companies": [
+        {"name": "Coinbase", "status": "🔴"},
+        {"name": "Binance", "status": "🔴", "note": "Layoff 1000 in July 2023", "link": "https://www.reuters.com/technology/binance-lays-off-over-1000-employees-wsj-2023-07-14/"},
+        {"name": "Cake DeFi", "status": "🔴", "note": "Layoff 34 since 2023", "link": "https://www.techinasia.com/cake-group-lays-staff-revenue-decline-denies-costcutting"},
+        {"name": "Bybit", "status": "🟠"},
+        {"name": "Coinhako", "status": ""},
+        {"name": "Crypto.com", "status": "🔴"},
+        {"name": "Matrixport", "status": "🔴"},
+        {"name": "Bitdeer", "status": ""},
+        {"name": "OKX", "status": ""},
+        {"name": "Amber Group", "status": ""},
+        {"name": "Nansen", "status": "🔴", "note": "Layoff 30%", "link": "https://cointelegraph.com/news/nansen-lays-off-30-of-its-workforce"}
+      ]
+    },
+    {
+      "name": "Tech Consulting",
+      "companies": [
+        {"name": "Thoughtworks", "status": "🔴"},
+        {"name": "Pivotal Labs (VMware Tanzu Labs)", "status": "🔴"},
+        {"name": "Confluent (Kafka)", "status": ""},
+        {"name": "Snowflake", "status": ""},
+        {"name": "Elastic (ELK)", "status": ""},
+        {"name": "Unity Technologies", "status": ""}
+      ]
+    },
+    {
+      "name": "Gaming",
+      "companies": [
+        {"name": "Ubisoft", "status": "🔴", "note": "Layoff 124 in Nov 2023 in Canada", "link": "https://www.theverge.com/2023/11/7/23951138/ubisoft-montreal-layoffs-hybride-assassins-creed"},
+        {"name": "HoYoverse (miHoYo)", "status": "🟢"},
+        {"name": "Riot Games", "status": "🟢"}
+      ]
+    },
+    {
+      "name": "Government",
+      "subcategories": [
+        {
+          "name": "Civil",
+          "companies": [
+            {"name": "OGP", "status": ""},
+            {"name": "GovTech", "status": "😭"},
+            {"name": "ESTL", "status": "🟢", "sub": true},
+            {"name": "DSAID (Data Science and AI Division)", "status": "🟢", "sub": true},
+            {"name": "HDB", "status": "🟢"},
+            {"name": "NLB", "status": "🟢"},
+            {"name": "STB", "status": "🟢"},
+            {"name": "MAS", "status": "🟢"}
+          ]
+        },
+        {
+          "name": "Defence",
+          "companies": [
+            {"name": "DSTA", "status": "🟢"},
+            {"name": "DIS (Digital and Intelligence Service, SAF)", "status": "🟢"},
+            {"name": "CSIT", "status": "🟢"},
+            {"name": "HTX", "status": "🟢"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other notable local companies",
+      "companies": [
+        {"name": "Carousell", "status": "🟠"},
+        {"name": "CARRO", "status": ""},
+        {"name": "Ninja Van", "status": ""},
+        {"name": "Splyt", "status": ""},
+        {"name": "Shopback", "status": "🔴", "note": "Layoff 195, 24% in March 2024", "link": "https://corporate.shopback.com/press/a-message-from-henry-on-focus-and-sustainability---a-painful-decision"},
+        {"name": "Lazada", "status": "🔴"},
+        {"name": "NextBillion.ai", "status": ""},
+        {"name": "Circles.Life", "status": "🟠"},
+        {"name": "Glints", "status": "🟠"},
+        {"name": "Mobbin", "status": "🟢"},
+        {"name": "Singapore Airlines", "status": "😭"}
+      ]
+    },
+    {
+      "name": "Other notable global companies",
+      "companies": [
+        {"name": "Rakuten Viki", "status": ""},
+        {"name": "Agoda", "status": ""},
+        {"name": "WeWork", "status": ""},
+        {"name": "Shopify", "status": "🔴"},
+        {"name": "Visa", "status": ""},
+        {"name": "Mastercard", "status": ""},
+        {"name": "GitLab", "status": "🔴"},
+        {"name": "Salesforce", "status": ""},
+        {"name": "Indeed", "status": "🔴", "note": "Layoff 200 in March 2023", "link": "https://www.businesstimes.com.sg/startups-tech/startups/jobs-portal-indeed-shuts-singapore-tech-office-amid-global-layoffs"},
+        {"name": "Zendesk", "status": "🔴", "note": "Layoff 8% in May 2023", "link": "https://www.zendesk.com/sg/newsroom/articles/zendesk-workforce-reduction/"},
+        {"name": "Twilio", "status": ""},
+        {"name": "Coupang", "status": ""},
+        {"name": "TheTradeDesk", "status": ""},
+        {"name": "ExpressVPN", "status": "🔴", "note": "Layoff 200 in July 2023", "link": "https://sg.news.yahoo.com/tech-layoffs-cybersecurity-firm-behind-160913325.html"},
+        {"name": "VMware", "status": "🔴", "note": "Mass layoffs Nov 2023 - August 2024", "link": "https://techwireasia.com/12/2023/what-happens-next-with-vmware-after-layoffs-and-redundancy/"},
+        {"name": "Zoom", "status": "🔴"}
+      ]
+    }
+  ],
+  "resources": {
+    "Job Listings": [
+      {"name": "Summer 2024 Tech Internships", "link": "https://techinternships.kxrt.me/"},
+      {"name": "GitHub", "link": "https://github.com/kxrt/Singapore-Summer2024-TechInternships", "sub": true},
+      {"name": "Tech Job Repo", "link": "https://techjobrepo.com/"},
+      {"name": "SG Tech Jobs", "link": "https://sgtechjobs.com/"}
+    ],
+    "Job Platforms": [
+      {"name": "MyCareersFuture", "link": "https://www.mycareersfuture.gov.sg/"},
+      {"name": "NodeFlair.Jobs", "link": "https://nodeflair.com/jobs?countries%5B%5D=Singapore"},
+      {"name": "LinkedIn Jobs", "link": "https://www.linkedin.com/jobs/"}
+    ],
+    "Salary": [
+      {"name": "NodeFlair.Salaries", "link": "https://www.nodeflair.com/salaries"},
+      {"name": "Glassdoor.Salaries", "link": "https://www.glassdoor.sg/Salaries/singapore-tech-salary-SRCH_IL.0,9_IM1123_KO10,14.htm"}
+    ],
+    "Layoff": [
+      {"name": "Layoffs.fyi", "link": "https://layoffs.fyi/"}
+    ],
+    "Tech Stack": [
+      {"name": "Tech Stack of Singapore tech companies", "link": "https://github.com/paradite/sg-tech-stack"}
+    ],
+    "Company lists": [
+      {"name": "Tech Company Lists - 16x Engineer", "link": "https://16x.engineer/resources/#tech-companies"}
+    ]
+  },
+  "credits": [
+    {"name": "MrMarciaOng", "note": "Credit for inventing the term 'FAANG lite'", "link": "https://github.com/MrMarciaOng"}
+  ],
+  "contribution": {
+    "note": "This is a community collaborative project. PRs are welcome!",
+    "link": "https://github.com/paradite/sg-tech-list"
+  }
+}
