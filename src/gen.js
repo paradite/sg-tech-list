@@ -57,6 +57,8 @@ output += `## Credits
 
 Credit for inventing the term "FAANG lite" goes to [MrMarciaOng](https://github.com/MrMarciaOng)
 
+Markdown generation logic and Next.js website created using [16x Prompt](https://prompt.16x.engineer/)
+
 ## Contribution
 
 This is a community collaborative project. PRs are welcome!
