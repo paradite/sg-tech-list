@@ -135,6 +135,7 @@ Last updated: Nov 7, 2024
 
 ## Other notable local companies
 
+- Ahrefs
 - Carousell 🟠
 - CARRO
 - Ninja Van
