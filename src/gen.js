@@ -5,6 +5,8 @@ let output = `# SG Tech List
 
 List of notable tech companies in Singapore. Useful when looking for a new job.
 
+Last updated: ${new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+
 **New interactive website: [https://sg-tech-list-next.vercel.app/](https://sg-tech-list-next.vercel.app/)**
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.

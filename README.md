@@ -2,7 +2,7 @@
 
 List of notable tech companies in Singapore. Useful when looking for a new job.
 
-Last updated: Mar 4, 2025
+Last updated: March 4, 2025
 
 **New interactive website: [https://sg-tech-list-next.vercel.app/](https://sg-tech-list-next.vercel.app/)**
 

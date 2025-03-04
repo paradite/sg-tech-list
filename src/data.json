@@ -145,6 +145,7 @@
     {
       "name": "Other notable local companies",
       "companies": [
+        {"name": "Ahrefs", "status": ""},
         {"name": "Carousell", "status": "🟠"},
         {"name": "CARRO", "status": ""},
         {"name": "Ninja Van", "status": ""},
